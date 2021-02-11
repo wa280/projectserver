@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "main": "app.js",
-    "start": "nodemon app.js"
+    "main": "node app.js",
+    "start": "node app.js"
   },
   "author": "xylem softwares",
   "license": "ISC",
